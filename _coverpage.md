@@ -7,5 +7,5 @@
 
 - Uma entrada dissertativa por fase, no seu ritmo
 
-[Como usar](#/docs/como-usar)
-[Perguntas por fase](#/docs/perguntas)
+<a href="#/docs/como-usar">Como usar</a>
+<a href="#/docs/perguntas">Perguntas por fase</a>
