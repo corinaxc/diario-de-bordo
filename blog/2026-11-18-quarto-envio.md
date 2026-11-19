@@ -1,8 +1,8 @@
 ---
-title: "Fase 3 — 28/10"
+title: "Fase 4 — 18/11"
 authors: Corina Xavier Carneiro
-tags: [terceiro envio]
-date: 2026-10-28
+tags: [quarto envio]
+date: 2026-11-18
 ---
 
 <!--
@@ -25,14 +25,14 @@ As perguntas completas de cada fase estão em
 docs/perguntas.md.
 -->
 
-## Olhando para a release que acabou de ser entregue, o que você diria que funcionou bem e o que não funcionou na sua equipe?
+## Compare como você está se sentindo na preparação desta segunda entrega coma forma como se sentiu na primeira.
 
-Acho que quase tudo que fizemos funcionou bem, a professora apontou erros pontuais, como melhorar o story map, pensar em uma gameficação, polir a documentação, e principalmente tomar cuidado com a diferença dos números de commit do grupo todo. Mas num geral, ela disse que está indo bem.
+Para essa segunda entrega, estou muito mais confiante, tanto por dominar melhor tudo que estamos trabalhando (documentação e implementações do front-end, que é a minha área desse projeto). Também acho que nosso trabalho está muito melhor estruturado, corrigimos tudo o que estava incompleto ou incorreto na documentação, e agora estamos terminando a parte de implementação do projeto para colocar ele no ar.
 
-## Como o feedback recebido (de colegas, professora, monitoria) tem influenciado o que vocês estão fazendo agora?
+## Descreva como as decisões técnicas estão sendo tomadas na sua equipe nesta fase — quem decide, como se chega a um consenso.
 
-Nós começamos a dividir melhor o número de commits, pois apenas dois alunos estavam fazendo os de documentação, o que acabou criando essa discrepância. Também revisamos toda a documentação, e mudamos algumas decisões que havíamos tomado, para ser mais coerente com o que a professora esperava.
+As decisões são todas tomadas em conjuto, o Álvaro quem sugere boa parte delas, mas nós decidimos como fazer sempre nas reuniões, com todos presentes. A maioria delas já foi tomada durante a confecção da documentação, afinal só começamos a implementar depois que tínhamos tudo dela pronto.
 
-## O que mudou, para você, entre o início da disciplina e este momento — tecnicamente e no seu jeito de trabalhar em equipe?
+## Que lacunas técnicas ainda te incomodam, e o que você tem feito, ou pretende fazer, a respeito?
 
-Muita coisa mudou. Principalmente em níveis de conhecimento da equipe toda. Aprendemos muito mesmo durante as aulas, e além disso, o próprio grupo se ajuda muito. Agora conseguimos ser um pouco mais dinâmicos nas entregas também.
+Até então, nenhuma lacuna técnica me incomoda. Eu sigo aina tendo algumas dificuldades com a linguagem, mas é pela falta de prática mesmo, afinal de todos os projetos que fizemos na faculdade até agora, esse é o mais completo, e o primeiro que tem front-end de fato.

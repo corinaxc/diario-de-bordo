@@ -8,6 +8,7 @@
   - [Fase 1 — 23/09](blog/2026-09-23-primeiro-envio.md)
   - [Fase 2 — 07/10](blog/2026-10-07-segundo-envio.md)
   - [Fase 3 — 28/10](blog/2026-10-28-terceiro-envio.md)
+  - [Fase 4 — 18/11](blog/2026-11-18-quarto-envio.md)
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
 fase), adicione uma linha aqui embaixo do item "Minhas entradas", apontando
